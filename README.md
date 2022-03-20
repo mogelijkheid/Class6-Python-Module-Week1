@@ -20,10 +20,10 @@ OVER WEIGHT, OBSE if 30-40, EXTREMELY OBSE if 40 and over
 print a warning.
 
 ## Hackerrank assignments
-1-https://www.hackerrank.com/challenges/python-arithmetic-operators/
+1. https://www.hackerrank.com/challenges/python-arithmetic-operators/
 problem
-2-https://www.hackerrank.com/challenges/python-lists/problem?
+2. https://www.hackerrank.com/challenges/python-lists/problem?
 isFullScreen=false
-3-https://www.hackerrank.com/challenges/python-print/problem
-4-https://www.hackerrank.com/challenges/finding-the-percentage/
+3. https://www.hackerrank.com/challenges/python-print/problem
+4. https://www.hackerrank.com/challenges/finding-the-percentage/
 problem
